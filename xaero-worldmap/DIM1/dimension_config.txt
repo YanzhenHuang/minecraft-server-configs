@@ -1,0 +1,3 @@
+MWName:mw$default:Default
+caveModeType:0
+dimensionType:minecraft$the_end:false$0.0$256$256$false$false$true$0.0$1.0$true

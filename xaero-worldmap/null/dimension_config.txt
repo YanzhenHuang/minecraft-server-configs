@@ -1,0 +1,5 @@
+confirmedMultiworld:mw$default
+MWName:mw0,1,0:Map 1
+MWName:mw$default:Default
+caveModeType:0
+dimensionType:minecraft$overworld:true$0.0$384$384$false$true$false$0.0$1.0$false

@@ -1,0 +1,12 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:末地门:末地:-617:-8:2024:14:true:0:gui.xaero_default:false:0:0:false
+waypoint:林地府邸:府邸:408:94:858:2:true:0:gui.xaero_default:false:0:0:false
+waypoint:East Ruined Portal:ER:639:69:884:5:true:0:gui.xaero_default:false:0:0:false
+waypoint:2nd海底神殿:2海:-784:63:-657:9:true:0:gui.xaero_default:false:0:0:false
+waypoint:1st海底神殿:1海:-304:63:-777:9:true:0:gui.xaero_default:false:0:0:false
+waypoint:雪原群系:雪:-1481:63:913:15:true:0:gui.xaero_default:false:0:0:false
+waypoint:哨兵站:哨:-280:105:-2763:11:true:0:gui.xaero_default:false:0:0:false
+waypoint:热带村庄:热:-418:68:-2150:6:true:0:gui.xaero_default:false:0:0:false
+waypoint:Home:家:2:96:104:14:false:0:gui.xaero_default:false:0:0:false
